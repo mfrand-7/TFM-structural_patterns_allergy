@@ -1,0 +1,11 @@
+(
+1_tr_O23748_O23748_BETPN_Pollen_allergen__Betv1__Fragment__OS=Betula_pendula_OX=3505_GN=Betv1_PE=3_SV=1
+:0.1185,(
+4_tr_Q5RZZ3_Q5RZZ3_PRUPE_Non-specific_lipid-transfer_protein_OS=Prunus_persica_OX=3760_GN=LTP_PE=2_SV=1
+:1.2401,
+5_sp_P79085_ALTA1_ALTAL_Major_allergen_Alt_a_1_OS=Alternaria_alternata_OX=5599_GN=ALTA1_PE=1_SV=1
+:1.0846):0.9128,(
+2_tr_Q9SWR4_Q9SWR4_CORAV_Major_allergen_Cor_a_1_0401_OS=Corylus_avellana_OX=13451_GN=CORA1_0401_PE=1_SV=1
+:0.2052,
+3_sp_Q5ULZ4_FRA1A_FRAAN_Major_strawberry_allergen_Fra_a_1-A_OS=Fragaria_ananassa_OX=3747_GN=FRAA1A_1_PE=1_SV=3
+:0.2299):0.0720);
