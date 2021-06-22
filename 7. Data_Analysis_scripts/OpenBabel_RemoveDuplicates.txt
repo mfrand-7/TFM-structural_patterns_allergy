@@ -1,0 +1,4 @@
+#Script to remove duplicates from an sdf file.
+obabel -i sdf PlantCyc_Mol2_5ccas.sdf -o sdf -O new_noduplicates.sdf --unique
+
+
