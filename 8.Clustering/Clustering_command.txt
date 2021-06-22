@@ -1,0 +1,2 @@
+#Comando pipeline
+python kmeans.py all --in Results_merged_PlantCyc_Mol1_Alta1_clustering_input.smi --clusters 5  --out Results_clusters_k5_PlantCyc_Mol1_Alta1.csv --fp_type rdk5
